@@ -39,7 +39,7 @@ const About = () => {
                 my plan was to pursue further studies and apply to dental school. It was during this time 
                 though that I discovered my passion for coding and decided to start studying web development at the start of
                 2022. Over the course of a year using reputable platforms such as CodeAcademy, The Odin Project, 
-                FreeCodeCamp, I gained a solid understanding of several frontend technologies including HTML, CSS, 
+                and FreeCodeCamp, I gained a solid understanding of several frontend technologies including HTML, CSS, 
                 JavaScript, and React. Learning these technologies gave me the ability to confidently develop visually 
                 appealing and dynamic web applications within my very first year of learning web development. 
                 Wanting to learn backend technologies and gain a solid understanding of computer science concepts, 
