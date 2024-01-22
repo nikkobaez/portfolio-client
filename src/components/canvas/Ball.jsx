@@ -46,8 +46,12 @@ const BallCanvas = ({icon}) => {
         >
             <Suspense>
                 <OrbitControls 
-                    enableZoom={false} />
-                <Ball imgUrl={icon}/>
+                    enableZoom={false} 
+                    enablePan={false}
+                />
+                <Ball 
+                    imgUrl={icon}
+                />
             </Suspense>
 
             <Preload all/>
