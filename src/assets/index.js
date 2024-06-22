@@ -9,6 +9,7 @@ import student from "./student.png";
 import github from './github.png'
 import lama from './lama.png'
 import wavvy from './wavvy.png'
+import horizon from './horizon.png'
 import profile from './profile.png'
 import css from "./tech/css.png";
 import html from "./tech/html.png";
@@ -38,6 +39,7 @@ export {
   github,
   lama,
   wavvy,
+  horizon,
   css,
   html,
   javascript,

@@ -15,6 +15,7 @@ import {
   next,
   lama,
   wavvy,
+  horizon,
   fullstack,
   frontend,
   backend,
@@ -119,7 +120,7 @@ const projects = [
   {
     name: "Lama",
     description:
-     "Web-based ecommerce clothing store that allows users to filter and sort products by size, color, and price, add products to their cart and wishlist, and purchase the products in their cart using stripe checkout.",
+     "Web-based ecommerce application that allows users to filter and sort products by size, color, and price, add products to their cart and wishlist, and purchase the products in their cart using stripe checkout.",
     tags: [
       {
         name: "react",
@@ -163,7 +164,33 @@ const projects = [
   image: wavvy,
   source_code_link: "https://github.com/nikkobaez/wavvy-client",
   live_demo_link: "https://graceful-dodol-b1c40d.netlify.app/"
-},
+  },
+  {
+  name: "Coming Soon Feb 2024",
+  description:
+    "Web-based car rental application that allows users to add update, and delete cars, rent out cars to customers, process cars returned by customers, and generate different types of revenue reports",
+  tags: [
+      {
+        name: "next",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "express",
+        color: "yellow-text-gradient",
+      },
+      {
+        name: "mysql",
+        color: "green-text-gradient",
+      },
+  ],
+  image: horizon,
+  source_code_link: "/",
+  live_demo_link: "/"
+  },
 ];
 
 export { services, technologies, projects };
