@@ -15,7 +15,7 @@ import {
   next,
   lama,
   wavvy,
-  horizon,
+  sushify,
   fullstack,
   frontend,
   backend,
@@ -120,7 +120,7 @@ const projects = [
   {
     name: "Lama",
     description:
-     "Web-based ecommerce application that allows users to filter and sort products by size, color, and price, add products to their cart and wishlist, and purchase the products in their cart using stripe checkout.",
+     "Fullstack web-based ecommerce application that allows users to filter and sort products by size, color, and price, add products to their cart and wishlist, and purchase the products in their cart using stripe checkout.",
     tags: [
       {
         name: "react",
@@ -146,7 +146,7 @@ const projects = [
   {
   name: "Wavvy",
   description:
-    "Web-based chat application that allows users to search for other users, search their chats for a conversation, send, approve, or deny friend requests, and message other users texts, images, and videos.",
+    "Fullstack web-based chat application that allows users to search for other users, search their chats for a conversation, send, approve, or deny friend requests, and message other users texts, images, and videos.",
   tags: [
     {
       name: "react",
@@ -164,6 +164,28 @@ const projects = [
   image: wavvy,
   source_code_link: "https://github.com/nikkobaez/wavvy-client",
   live_demo_link: "https://graceful-dodol-b1c40d.netlify.app/"
+  },
+    {
+  name: "Sushify",
+  description:
+    "Frontend web-based landing page that focuses on user experience creating a fully cohesive design through features such as a dark and light theme, animations, a modern color palette, and typographics.",
+  tags: [
+    {
+      name: "react",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "css",
+      color: "pink-text-gradient"
+    },
+    {
+      name: "framer",
+      color: "purple-text-gradient",
+    },
+  ],
+  image: sushify,
+  source_code_link: "https://github.com/nikkobaez/sushify-client",
+  live_demo_link: "https://shiny-torrone-7dbeb6.netlify.app/"
   },
 ];
 
