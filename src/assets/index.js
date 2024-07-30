@@ -10,6 +10,7 @@ import github from './github.png'
 import lama from './lama.png'
 import wavvy from './wavvy.png'
 import sushify from "./sushify.png"
+import viva from "./viva.png"
 import profile from './profile.png'
 import css from "./tech/css.png";
 import html from "./tech/html.png";
@@ -40,6 +41,7 @@ export {
   lama,
   wavvy,
   sushify,
+  viva,
   css,
   html,
   javascript,

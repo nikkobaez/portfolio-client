@@ -16,6 +16,7 @@ import {
   lama,
   wavvy,
   sushify,
+  viva,
   fullstack,
   frontend,
   backend,
@@ -165,10 +166,10 @@ const projects = [
   source_code_link: "https://github.com/nikkobaez/wavvy-client",
   live_demo_link: "https://graceful-dodol-b1c40d.netlify.app/"
   },
-    {
+  {
   name: "Sushify",
   description:
-    "Frontend web-based landing page that focuses on user experience creating a fully cohesive design through features such as a dark and light theme, animations, a modern color palette, and typographics.",
+    "Frontend web-based landing page that focuses on user experience by creating a cohesive design through features such as a dark and light theme, animations, a modern color palette, and typographics.",
   tags: [
     {
       name: "react",
@@ -186,6 +187,32 @@ const projects = [
   image: sushify,
   source_code_link: "https://github.com/nikkobaez/sushify-client",
   live_demo_link: "https://shiny-torrone-7dbeb6.netlify.app/"
+  },
+    {
+  name: "Viva",
+  description:
+    "Frontend web-based landing and product customization page that encourages user engagement by allowing users to design their own pieces of furniture based on the style and colors they want.",
+  tags: [
+    {
+      name: "react",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "tailwind",
+      color: "pink-text-gradient"
+    },
+    {
+      name: "framer",
+      color: "purple-text-gradient",
+    },
+    {
+      name: "three.js",
+      color: "green-text-gradient",
+    },
+  ],
+  image: viva,
+  source_code_link: "https://github.com/nikkobaez/viva-client",
+  live_demo_link: "https://dainty-paprenjak-d97120.netlify.app"
   },
 ];
 
